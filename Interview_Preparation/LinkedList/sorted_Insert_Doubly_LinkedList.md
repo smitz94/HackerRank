@@ -37,7 +37,5 @@ DoublyLinkedListNode* sortedInsert(DoublyLinkedListNode* head, int data) {
     }
 
 return head;
-
-
 }
 ```
